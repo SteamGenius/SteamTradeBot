@@ -1,0 +1,44 @@
+{
+  "name": "steamtradebot",
+  "version": "1.2.4",
+  "description": "Steambot Developed by Olle Thunberg: cloudianbusiness@gmail.com",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gameman2110/SteamTradeBot.git"
+  },
+  "keywords": [
+    "steambot",
+    "steam",
+    "trading",
+    "bot",
+    "steam-trading-bot",
+    "trading",
+    "market-price-bot",
+    "automated",
+    "trading",
+    "bot",
+    "csgo"
+  ],
+  "author": "Olle Thunberg (CloudiaN)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gameman2110/SteamTradeBot/issues"
+  },
+  "homepage": "https://github.com/Gameman2110/SteamTradeBot#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "electron": "^1.6.2",
+    "fs": "0.0.1-security",
+    "node-get-time": "^1.1.0",
+    "steam-market-pricing": "^1.0.4",
+    "steam-totp": "^2.0.1",
+    "steam-tradeoffer-manager": "^2.9.3",
+    "steam-user": "^3.25.2",
+    "steamcommunity": "^3.34.1",
+    "underscore": "^1.9.0"
+  }
+}

@@ -1,0 +1,35 @@
+
+body {
+    background-color: white;
+}
+.center {
+    text-align: center;
+
+}
+.centerdiv {
+    margin: 2% auto;
+}
+
+footer p {
+    margin: 5%;
+    position: absolute;
+    bottom: 0;
+
+}
+content {
+
+}
+#totalprofit {
+    right: 0;
+    margin-right: 9%;
+}
+textarea {
+    width: 100px;
+}
+.card {
+    width: 50%;
+    margin: 2% auto;
+}
+.margintop {
+    margin-top: 10%;
+}

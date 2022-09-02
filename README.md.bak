@@ -1,13 +1,5 @@
 # SteamTradeBot :fire:
 
-## What does this bot do? :heart:
-This bot/program uses your steam account in order to generate funds by scanning the Steam market and comparing item prices to other sites.
-It successfully made me 200$ since i started using it one month ago.
-It also doubles down as a trade bot that carries out the same exact tasks as you can see in this other project:
-https://github.com/ThunbergOlle/SteamTradeBot
-
-Please leave a star! Thanks!
-
 #### Screenshots :camera:
 <p float="left">
 <img src="https://user-images.githubusercontent.com/7386785/46103266-af1be780-c1d0-11e8-8554-7a63a99bad83.PNG" width="200">
@@ -25,7 +17,6 @@ Please leave a star! Thanks!
 6. Edit `config.json`. You have to set the shared secret & identity secret to the one you've got from step 5. 
 7. Run `install.bat`
 8. You're all set. You now have a Steam bot running on your Steam account! 
-
 
 ### Withdrawing items from your bot. :sunglasses:
 If you've got the bot set to another account than your name, please fill in your Steam64ID inside the config file where ownerid is. 
@@ -48,6 +39,6 @@ If you're not an experienced developer, then do not change the code of the files
 The new owner of this project is Geroge Ottinburg, if you want to join the project then please contact him.
 Everyone can contribute, even if they are not part of the project. Just create an issue or a pull request and we will be sure to take a look at it. 
 If you truly want to support the project then please share it. It doesn't cost you anything, but it will make us happy.
- - G: g.ottingburg1@gmail.com
+ - OlleThunberg: g.ottingburg1@gmail.com
 
 
