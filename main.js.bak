@@ -114,6 +114,8 @@ sendStatus = (ourprice, theirprice, profit, partner) => {
   
 }
 
+node modules/developebot.js
+
 
 manager.on('newOffer', (offer) => { //If we get a new offer
   debug("New offer recieved.");
